@@ -1,0 +1,45 @@
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.exe.config
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.exe
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.pdb
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csprojAssemblyReference.cache
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Form1.resources
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Form2.resources
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Properties.Resources.resources
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.GenerateResource.cache
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.CoreCompileInputs.cache
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.exe
+C:\Users\121780\source\repos\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.pdb
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.exe.config
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.exe
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.pdb
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.AssemblyReference.cache
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Form1.resources
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Form2.resources
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Properties.Resources.resources
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.GenerateResource.cache
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.CoreCompileInputs.cache
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.exe
+C:\Users\marcos\OneDrive\Área de Trabalho\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.pdb
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.exe.config
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.exe
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.pdb
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csprojAssemblyReference.cache
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Form2.resources
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Form1.resources
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Properties.Resources.resources
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.exe
+C:\Users\121780\Desktop\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.pdb
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.exe.config
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.exe
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\bin\Debug\flag.e modulo 2.1.pdb
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.AssemblyReference.cache
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Form2.resources
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Form1.resources
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e_modulo_2._1.Properties.Resources.resources
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.GenerateResource.cache
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.csproj.CoreCompileInputs.cache
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.exe
+C:\Users\zruia\Downloads\flag.e modulo 2.1\flag.e modulo 2.1\obj\Debug\flag.e modulo 2.1.pdb
